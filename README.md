@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Otomatik Mail Gönderme Uygulaması
 
 Bu uygulama, Python kullanarak otomatik mail gönderme işlemlerini gerçekleştiren kapsamlı bir sistemdir. Hem GUI (grafik arayüz) hem de komut satırı desteği sunar.
@@ -277,3 +278,6 @@ Sorularınız için GitHub issues kullanın.
 ---
 
 **Not**: Bu uygulama eğitim amaçlıdır. Ticari kullanım için gerekli izinleri alın ve spam kurallarına uygun hareket edin.
+=======
+# python-projects
+>>>>>>> 72cbf5cd7faebe40a704e630e89b0704d69be53f
